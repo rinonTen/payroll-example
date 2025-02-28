@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/payroll/[id]/+page.svelte";

@@ -1,0 +1,14 @@
+{
+	"/": [],
+	"/employees": [],
+	"/employees/new": [],
+	"/employees/[id]": [],
+	"/employees/[id]/edit": [],
+	"/leave": [],
+	"/leave/new": [],
+	"/leave/[id]": [],
+	"/payroll": [],
+	"/payroll/new": [],
+	"/payroll/[id]": [],
+	"/reports": []
+}
